@@ -127,5 +127,5 @@ Pushes to `main` branch automatically trigger deployments.
 
 ## 👨‍💻 Contributors
 
-- **Mihir** – Fullstack + DevOps
+- **Yuvraj** – Fullstack + DevOps
 - Open for contributions 🚀
